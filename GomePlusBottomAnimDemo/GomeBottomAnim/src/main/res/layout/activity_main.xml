@@ -13,59 +13,59 @@
 
         <com.gome.bottom.anim.widget.ScaleAnimationView
 
-            android:id="@+id/gome_plus_bottom1"
+            android:id="@+id/bottom1"
             android:layout_width="match_parent"
             android:layout_height="match_parent"
             android:layout_weight="1"
-            app:image_inside="@drawable/gomeplus_meixin_focus_inside"
-            app:image_out_defalut="@drawable/gomeplus_meixin_unfocus"
-            app:image_out_focus="@drawable/gomeplus_meixin_focus"
-            app:image_out_unfocus="@drawable/gomeplus_meixin_unfocus" />
+            app:image_inside="@drawable/meixin_focus_inside"
+            app:image_out_defalut="@drawable/meixin_unfocus"
+            app:image_out_focus="@drawable/meixin_focus"
+            app:image_out_unfocus="@drawable/meixin_unfocus" />
 
         <com.gome.bottom.anim.widget.ScaleAnimationView
 
-            android:id="@+id/gome_plus_bottom2"
+            android:id="@+id/bottom2"
             android:layout_width="match_parent"
             android:layout_height="match_parent"
             android:layout_weight="1"
-            app:image_inside="@drawable/gomeplus_shop_focus_inside"
-            app:image_out_defalut="@drawable/gomeplus_shop_unfocus"
-            app:image_out_focus="@drawable/gomeplus_shop_focus"
-            app:image_out_unfocus="@drawable/gomeplus_shop_unfocus"
+            app:image_inside="@drawable/shop_focus_inside"
+            app:image_out_defalut="@drawable/shop_unfocus"
+            app:image_out_focus="@drawable/shop_focus"
+            app:image_out_unfocus="@drawable/shop_unfocus"
             />
 
         <com.gome.bottom.anim.widget.RotateAnimationView
 
-            android:id="@+id/gome_plus_bottom3"
+            android:id="@+id/bottom3"
             android:layout_width="match_parent"
             android:layout_height="match_parent"
             android:layout_weight="1"
-            app:image_inside="@drawable/gomeplus_meimei_focus_inside"
-            app:image_out_defalut="@drawable/gomeplus_meimei_unfocus"
-            app:image_out_focus="@drawable/gomeplus_meimei_focus"
-            app:image_out_unfocus="@drawable/gomeplus_meimei_unfocus" />
+            app:image_inside="@drawable/meimei_focus_inside"
+            app:image_out_defalut="@drawable/meimei_unfocus"
+            app:image_out_focus="@drawable/meimei_focus"
+            app:image_out_unfocus="@drawable/meimei_unfocus" />
 
         <com.gome.bottom.anim.widget.ScaleAnimationView
 
-            android:id="@+id/gome_plus_bottom4"
+            android:id="@+id/bottom4"
             android:layout_width="match_parent"
             android:layout_height="match_parent"
             android:layout_weight="1"
-            app:image_inside="@drawable/gomeplus_buy_shop_car_focus_inside"
-            app:image_out_defalut="@drawable/gomeplus_buy_shop_car_unfocus"
-            app:image_out_focus="@drawable/gomeplus_buy_shop_car_focus"
-            app:image_out_unfocus="@drawable/gomeplus_buy_shop_car_unfocus" />
+            app:image_inside="@drawable/buy_shop_car_focus_inside"
+            app:image_out_defalut="@drawable/buy_shop_car_unfocus"
+            app:image_out_focus="@drawable/buy_shop_car_focus"
+            app:image_out_unfocus="@drawable/buy_shop_car_unfocus" />
 
         <com.gome.bottom.anim.widget.ScaleAnimationView
 
-            android:id="@+id/gome_plus_bottom5"
+            android:id="@+id/bottom5"
             android:layout_width="match_parent"
             android:layout_height="match_parent"
             android:layout_weight="1"
-            app:image_inside="@drawable/gomeplus_myself_focus_inside"
-            app:image_out_defalut="@drawable/gomeplus_myself_unfocus"
-            app:image_out_focus="@drawable/gomeplus_myself_focus"
-            app:image_out_unfocus="@drawable/gomeplus_myself_unfocus"
+            app:image_inside="@drawable/myself_focus_inside"
+            app:image_out_defalut="@drawable/myself_unfocus"
+            app:image_out_focus="@drawable/myself_focus"
+            app:image_out_unfocus="@drawable/myself_unfocus"
 
             />
     </LinearLayout>
