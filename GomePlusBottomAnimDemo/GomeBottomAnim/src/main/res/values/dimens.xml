@@ -1,0 +1,36 @@
+<resources>
+    <!-- Default screen margins, per the Android Design guidelines. -->
+    <dimen name="activity_horizontal_margin">16dp</dimen>
+    <dimen name="activity_vertical_margin">16dp</dimen>
+    <dimen name="ad_view_height_header">0dp</dimen>
+    <dimen name="product_detail_drag_flip_header_height">300dp</dimen>
+    <dimen name="product_detail_more_refresh_ly_height">55dp</dimen>
+    <dimen name="product_detail_summary_header">44dp</dimen>
+    <dimen name="fab_margin">16dp</dimen>
+
+    <dimen name="product_detail_main_margin">10dp</dimen>
+    <dimen name="product_detail_recyclerview_span">5dp</dimen>
+    <dimen name="product_detail_main_bottom_height">50dp</dimen>
+    <dimen name="product_detail_prom_info_height">50dp</dimen>
+
+    <dimen name="pd_tx_size_14">14sp</dimen>
+    <dimen name="menu_item_vertical_padding">15.3dp</dimen>
+    <dimen name="menu_item_left_padding">22.7dp</dimen>
+    <dimen name="dim_12sp">12sp</dimen>
+    <dimen name="dim_200dp">200dp</dimen>
+    <dimen name="dim_123dp">123dp</dimen>
+    <dimen name="dim_100dp">100dp</dimen>
+    <dimen name="dim_90dp">90dp</dimen>
+    <dimen name="dim_80dp">80dp</dimen>
+    <dimen name="dim_70dp">70dp</dimen>
+    <dimen name="dim_65dp">65dp</dimen>
+    <dimen name="dim_62dp">62dp</dimen>
+    <dimen name="dim_60dp">60dp</dimen>
+    <dimen name="dim_25dp">25dp</dimen>
+    <dimen name="dim_22dp">22dp</dimen>
+    <dimen name="dim_20dp">20dp</dimen>
+    <dimen name="dim_15dp">15dp</dimen>
+    <dimen name="dim_10dp">10dp</dimen>
+    <dimen name="dim_5dp">5dp</dimen>
+    <dimen name="dim_2dp">2dp</dimen>
+</resources>

@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <declare-styleable name="ZoomAnimView">
+        <attr name="image_out_focus" format="reference"/>
+        <attr name="image_out_unfocus" format="reference"/>
+        <attr name="image_inside" format="reference"/>
+        <attr name="image_out_defalut" format="reference"/>
+        <attr name="image_inside_top_margin" format="dimension"/>
+        <attr name="image_inside_bottom_margin" format="dimension"/>
+    </declare-styleable>
+</resources>
