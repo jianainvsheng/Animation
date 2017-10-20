@@ -18,7 +18,9 @@ public class MainActivity extends AppCompatActivity implements View.OnClickListe
 
         this.findViewById(R.id.gome_plus_bottom1).setOnClickListener(this);
         this.findViewById(R.id.gome_plus_bottom2).setOnClickListener(this);
+
         this.findViewById(R.id.gome_plus_bottom3).setOnClickListener(this);
+
         this.findViewById(R.id.gome_plus_bottom4).setOnClickListener(this);
         this.findViewById(R.id.gome_plus_bottom5).setOnClickListener(this);
         mFocusAnimView = (ZoomAnimationView) this.findViewById(R.id.gome_plus_bottom1);
