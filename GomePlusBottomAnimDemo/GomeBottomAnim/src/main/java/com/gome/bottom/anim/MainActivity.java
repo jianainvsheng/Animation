@@ -16,12 +16,12 @@ public class MainActivity extends AppCompatActivity implements View.OnClickListe
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_main);
 
-        this.findViewById(R.id.gome_plus_bottom1).setOnClickListener(this);
-        this.findViewById(R.id.gome_plus_bottom2).setOnClickListener(this);
-        this.findViewById(R.id.gome_plus_bottom3).setOnClickListener(this);
-        this.findViewById(R.id.gome_plus_bottom4).setOnClickListener(this);
-        this.findViewById(R.id.gome_plus_bottom5).setOnClickListener(this);
-        mFocusAnimView = (ZoomAnimationView) this.findViewById(R.id.gome_plus_bottom1);
+        this.findViewById(R.id.bottom1).setOnClickListener(this);
+        this.findViewById(R.id.bottom2).setOnClickListener(this);
+        this.findViewById(R.id.bottom3).setOnClickListener(this);
+        this.findViewById(R.id.bottom4).setOnClickListener(this);
+        this.findViewById(R.id.bottom5).setOnClickListener(this);
+        mFocusAnimView = (ZoomAnimationView) this.findViewById(R.id.bottom1);
         mFocusAnimView.showFocusView(false);
     }
 
