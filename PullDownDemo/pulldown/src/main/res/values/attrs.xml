@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <declare-styleable name="PullToRefresh">
+        <attr name="mode" format="integer" />
+    </declare-styleable>
+    <declare-styleable name="BeanLayout">
+        <attr name="beanTextLeft" format="dimension"/>
+        <attr name="beanTextRight" format="dimension"/>
+        <attr name="beanIamgeLeft" format="dimension"/>
+        <attr name="beanDesRight" format="dimension"/>
+        <attr name="beanLayoutMargeTop" format="dimension"/>
+        <attr name="beanLayoutMargeBottom" format="dimension"/>
+    </declare-styleable>
+</resources>

@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<android.support.constraint.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context="com.gome.pull.down.MainActivity">
+
+    <com.gome.pull.down.pulldown.PullDownLayout xmlns:PullToRefresh="http://schemas.android.com/apk/res-auto"
+        android:id="@+id/home_page_refresh_layout"
+        android:layout_width="fill_parent"
+        android:layout_height="fill_parent">
+
+        <com.gome.pull.down.pulldown.widget.GomePullableListView
+            android:id="@+id/home_page_refresh_list_view"
+            android:layout_width="fill_parent"
+            android:layout_height="fill_parent"
+            android:layout_alignParentTop="true"
+            android:animationCache="false"
+            android:fadingEdge="none"
+            android:listSelector="@android:color/transparent"
+            android:scrollbars="none"
+            android:scrollingCache="false"
+            android:smoothScrollbar="true" />
+    </com.gome.pull.down.pulldown.PullDownLayout>
+
+</android.support.constraint.ConstraintLayout>
